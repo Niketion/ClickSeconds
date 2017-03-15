@@ -1,0 +1,13 @@
+name: ClickSeconds
+version: 0.1
+author: Niketion
+main: it.nik.clickseconds.Main
+commands:
+  click:
+    description: View click on x seconds
+  clickseconds:
+    aliases: cs
+    description: General command of plugin
+permissions:
+  click.use:
+    default: true

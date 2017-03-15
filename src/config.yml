@@ -1,0 +1,9 @@
+permission-denied: "&cYou don't have permission."
+duration-clickmode: 10 #seconds
+cooldown:
+  - '&e3 seconds... &7(Check your level for actually clicks)'
+  - '&e2 seconds... &7(You''ve 10 seconds!)'
+  - '&e1 second... &7(Warning)'
+  - '&e&lGO!'
+already-clickmode: "&cYou're already in click mode!"
+end: "&2&lSTOP!&6 You've totalized &2%clicks%&6 click!"
